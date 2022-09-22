@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliUmbi
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React & Rust
 - 💞️ I’m looking to collaborate on a shitty little project
 - 📫 How to reach me? Just create an issue on one of my projects
 
